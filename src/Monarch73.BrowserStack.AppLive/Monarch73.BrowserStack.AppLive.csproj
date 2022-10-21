@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <AssemblyTitle>BrowserStack App Live Client API</AssemblyTitle>
-    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>false</ImplicitUsings>
     <Nullable>disable</Nullable>
     <OutputType>Library</OutputType>
