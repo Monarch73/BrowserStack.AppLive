@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E6AA0003-B4B1-4571-9962-0E1D6D47CBCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monarch73.BrowserStack.AppLive", "src\Monarch73.BrowserStack.AppLive\Monarch73.BrowserStack.AppLive.csproj", "{640CDF2B-5574-4A75-9609-34B330FE063F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640CDF2B-5574-4A75-9609-34B330FE063F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640CDF2B-5574-4A75-9609-34B330FE063F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640CDF2B-5574-4A75-9609-34B330FE063F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640CDF2B-5574-4A75-9609-34B330FE063F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{640CDF2B-5574-4A75-9609-34B330FE063F} = {E6AA0003-B4B1-4571-9962-0E1D6D47CBCE}
+	EndGlobalSection
+EndGlobal
